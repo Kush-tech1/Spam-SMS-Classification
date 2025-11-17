@@ -20,24 +20,6 @@ It includes:
 
 ---
 
-## 📂 Dataset
-
-The dataset used: **spam.csv**
-Contains two main columns:
-
-* **v1** → target label (ham/spam)
-* **v2** → message text
-
-After cleaning:
-
-* **5169 rows**
-* **2 meaningful columns**
-
-  * `target` (0 = ham, 1 = spam)
-  * `text` (SMS message)
-
----
-
 ## 🧹 Data Cleaning
 
 * Removed unused columns (`Unnamed: 2, 3, 4`)
