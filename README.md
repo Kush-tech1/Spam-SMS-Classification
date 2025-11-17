@@ -10,13 +10,13 @@ A complete end-to-end machine learning pipeline to classify SMS messages as **Sp
 This project builds a robust SMS spam classifier using Python, NLP preprocessing, TF-IDF vectorization, and various machine learning models.
 It includes:
 
-✔ Data Cleaning
-✔ Text Preprocessing (tokenization, stemming, stopword removal)
-✔ EDA (distribution, word clouds, histograms)
-✔ Feature Engineering
-✔ Model Training & Evaluation
-✔ Ensemble Learning (Voting & Stacking Classifiers)
-✔ Saving vectorizer & model (`vectorizer.pkl`, `model.pkl`)
+* Data Cleaning
+* Text Preprocessing (tokenization, stemming, stopword removal)
+* EDA (distribution, word clouds, histograms)
+* Feature Engineering
+* Model Training & Evaluation
+* Ensemble Learning (Voting & Stacking Classifiers)
+* Saving vectorizer & model (`vectorizer.pkl`, `model.pkl`)
 
 ---
 
